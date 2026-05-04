@@ -1,4 +1,4 @@
-import { t as GenIcon } from "./iconBase-THbjLXhM.js";
+import { t as GenIcon } from "./iconBase-Dh2n8VIk.js";
 //#region node_modules/react-icons/vsc/index.mjs
 function VscZoomOut(props) {
 	return GenIcon({
